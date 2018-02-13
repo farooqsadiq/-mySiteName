@@ -1,5 +1,5 @@
-publishDir = "docs"
 baseurl = "https://farooqsadiq.github.io/mySiteName/"
+publishDir = "docs"
 title = "Creative portfolio"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
