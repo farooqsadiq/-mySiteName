@@ -8,7 +8,6 @@ weight = 1
 +++
 
 Doggo ipsum thicc dat tungg tho very good spot waggy wags, woofer. Aqua doggo very good spot wrinkler fluffer wow such tempt, woofer wrinkler heckin good boys and girls. Big ol pupper many pats ruff, clouds. very good spot bork stop it fren. Snoot wow such tempt bork heckin angery woofer smol very jealous pupper, ruff borkf h*ck.
-
 <!--more-->
 
 ![alt text](/img/portfolio/dogs/dog1.jpg)

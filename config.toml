@@ -1,4 +1,6 @@
-baseurl = "https://farooqsadiq.github.io/mySiteName/"
+baseurl = "https://farooqsadiq.github.io/mySiteName"
+# adds ../../ back to the root, on local paths
+relativeURLs = true
 publishDir = "docs"
 title = "Creative portfolio"
 theme = "hugo-creative-portfolio-theme"
